@@ -1,4 +1,4 @@
-# Discover BibGuru - free citation generator
+# BibGuru - free citation generator
 
 [BibGuru](https://www.bibguru.com) is a FREE citation maker that can generate bibliographies, reference lists, and in-text citations in seconds. No-sign required, and no distracting ads!
 
